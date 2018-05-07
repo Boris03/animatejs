@@ -1,1 +1,1 @@
-# animatejs
+# animate
